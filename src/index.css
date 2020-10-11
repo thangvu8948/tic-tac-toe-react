@@ -48,3 +48,11 @@ ol, ul {
 .game-info {
   margin-left: 20px;
 }
+
+.move-selected {
+  background-color: rgba(177, 226, 144, 0.667);
+}
+
+.highlight-win {
+  background-color: rgba(233, 240, 146, 0.788);
+}
